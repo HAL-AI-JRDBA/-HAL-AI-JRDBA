@@ -1,0 +1,9 @@
+HALL-AI V44 — Atualizar Space existente
+
+1) Abra https://huggingface.co/spaces/HAL-AI-JRDBA/README/tree/main
+2) Clique em Contribute > Upload files.
+3) Envie index.html e README.md (substituindo os arquivos antigos).
+4) Commit changes.
+5) Abra App e teste o botão Download V44.
+
+Este pacote nao altera o Space ate que voce envie e confirme os arquivos.
